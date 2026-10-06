@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "repository": "official",
+  "name": "Amethyst Official Packages",
+  "packages": [
+    {
+      "name": "hello",
+      "version": "1.0.0",
+      "description": "A simple AmethystPM test package",
+      "manifest": "packages/hello/package.json"
+    }
+  ]
+}

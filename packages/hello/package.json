@@ -1,0 +1,15 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "A simple AmethystPM test package",
+  "homepage": "https://github.com/bulutaltundis/amethyst-packages",
+
+  "platforms": {
+    "macos": {
+      "arm64": {
+        "url": "https://example.com/hello-1.0.0-macos-arm64.tar.gz",
+        "sha256": "PLACEHOLDER"
+      }
+    }
+  }
+}
