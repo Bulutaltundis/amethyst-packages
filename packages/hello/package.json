@@ -7,8 +7,8 @@
   "platforms": {
     "macos": {
       "arm64": {
-        "url": "https://example.com/hello-1.0.0-macos-arm64.tar.gz",
-        "sha256": "PLACEHOLDER"
+        "url": "https://github.com/Bulutaltundis/amethyst-packages/releases/download/Hello/hello-1.0.0-macos-arm64.tar.gz",
+        "sha256": "5038255d3d4c20697a973f3cc519f886c1d4a49b57c5f215add2a9927fb8e154"
       }
     }
   }
